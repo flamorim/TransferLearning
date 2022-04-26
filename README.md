@@ -2,8 +2,7 @@
 Exemplo de transfer learning, usando a 	VGG16
 <p>
 Na prática, treinar uma rede convolutiva a partir do zero (com inicialização aleatória), 
-<p>
-é relativamente raro (conjunto de dados de tamanho suficiente)
+é relativamente raro (os conjunto de dados não terão tamanho suficiente)
 
 Modelos para classificação de imagens com pesos treinados em ImageNet (disponível em Keras)
  * Xception 
@@ -15,5 +14,6 @@ Modelos para classificação de imagens com pesos treinados em ImageNet (dispon�
  * MobileNet 
  * DenseNet 
  * NASNet
- https://keras.io/applications/
+ <p>
+Ver https://keras.io/applications/
 </div>
